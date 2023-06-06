@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 📫 How to reach me: oconnor.brianna@gmail.com
 <!--
 **Borruu/Borruu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
